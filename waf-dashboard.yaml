@@ -9,7 +9,7 @@ Parameters:
 
   NodeType:
     Type: String
-    Default: m3.medium.elasticsearch
+    Default: t3.medium.elasticsearch
     Description: Elasticsearch Node Type
 
   ElasticSerchDomainName:
